@@ -1,1 +1,1 @@
-# Webscrapping
+Use beutiful soup to pull from one of three websites and pull the datat on top sellers from diffrent years. Then add them to an array but only one per year so merge all the amse years into one bit total. Than sort by ammount per year and print.
